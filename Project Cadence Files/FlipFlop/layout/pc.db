@@ -1,0 +1,40 @@
+#
+NCSU_TechLib_tsmc03 pmos layout
+|P4
+|P3
+|P1
+|P0
+|P2
+#
+NCSU_TechLib_tsmc03 nmos layout
+|N5
+|N0
+|N4
+|N3
+|N2
+|N1
+#ISCELL
+NCSU_TechLib_tsmc03 metal1 symbolic
+gnd!
+out
+clk
+in
+Vdd
+#ISCELL
+NCSU_TechLib_tsmc03 M1_N symbolic
+I0
+I2
+I3
+I1
+#ISCELL
+NCSU_TechLib_tsmc03 M1_P symbolic
+I4
+#ISCELL
+NCSU_TechLib_tsmc03 M1_POLY symbolic
+I11
+I8
+I5
+I7
+I9
+I10
+I6

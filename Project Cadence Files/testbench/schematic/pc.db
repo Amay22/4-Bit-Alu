@@ -1,0 +1,43 @@
+#
+testinglayout full symbol
+I22
+#
+NCSU_Analog_Parts vdc symbol
+V2
+V3
+V4
+V5
+V1
+#
+NCSU_Analog_Parts vpwl symbol
+V0
+#
+NCSU_Analog_Parts vpulse symbol
+clk
+clk'
+#ISCELL
+NCSU_Analog_Parts gnd symbol
+I14
+I13
+I12
+I11
+I10
+I9
+I8
+I7
+I6
+I5
+I17
+I1
+I2
+#ISCELL
+basic opin symbol
+PIN4
+PIN3
+PIN1
+PIN0
+PIN2
+#ISCELL
+NCSU_Analog_Parts vdd symbol
+I15
+I16

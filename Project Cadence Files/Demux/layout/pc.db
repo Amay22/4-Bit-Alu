@@ -1,0 +1,37 @@
+#
+Project inverter layout
+|I4
+|I3
+|I2
+#
+NCSU_TechLib_tsmc03 pmos layout
+|P4
+|P3
+|P2
+|P0
+#
+NCSU_TechLib_tsmc03 nmos layout
+|N4
+|N3
+|N2
+|N0
+#ISCELL
+NCSU_TechLib_tsmc03 metal1 symbolic
+gnd!
+vdd
+out
+comp
+add
+opc0
+#ISCELL
+NCSU_TechLib_tsmc03 M1_POLY symbolic
+I6
+I4
+I2
+I1
+#ISCELL
+NCSU_TechLib_tsmc03 M1_N symbolic
+I3
+#ISCELL
+NCSU_TechLib_tsmc03 M1_P symbolic
+I5

@@ -1,0 +1,19 @@
+#
+NCSU_Analog_Parts pmos4 ivpcell
++1
+#
+NCSU_Analog_Parts nmos4 ivpcell
++0
+#
+NCSU_Analog_Parts pcapacitor ivpcell
++6
++5
++4
++3
++2
+#ISCELL
+NCSU_TechLib_tsmc03 metal1 symbolic
+out
+in
+gnd!
+Vdd

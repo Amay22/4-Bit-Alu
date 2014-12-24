@@ -1,0 +1,68 @@
+#
+NCSU_TechLib_tsmc03 pmos layout
+|P0
+|P1
+|P2
+|P3
+|P4
+|P5
+|P6
+|P7
+|P8
+|P10
+|P11
+|P9
+#
+NCSU_TechLib_tsmc03 nmos layout
+|N11
+|N10
+|N12
+|N9
+|N0
+|N4
+|N5
+|N3
+|N1
+|N6
+|N7
+|N8
+#ISCELL
+NCSU_TechLib_tsmc03 metal1 symbolic
+gnd
+vdd
+I27
+I26
+I25
+I24
+I0
+#ISCELL
+NCSU_TechLib_tsmc03 M1_POLY symbolic
+I13
+I7
+I14
+I15
+I16
+I17
+I18
+I19
+I20
+I21
+I22
+I23
+#ISCELL
+NCSU_TechLib_tsmc03 M2_M1 symbolic
+I10
+I9
+I8
+I3
+I4
+I5
+I6
+I12
+I11
+#ISCELL
+NCSU_TechLib_tsmc03 M1_P symbolic
+I2
+#ISCELL
+NCSU_TechLib_tsmc03 M1_N symbolic
+I1

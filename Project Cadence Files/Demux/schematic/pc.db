@@ -1,0 +1,31 @@
+#
+testinglayout inverter symbol
+I7
+I6
+I5
+#
+NCSU_Analog_Parts pmos4 symbol
+P4
+P3
+P2
+P0
+#
+NCSU_Analog_Parts nmos4 symbol
+N4
+N3
+N2
+N0
+#ISCELL
+basic ipin symbol
+PIN3
+PIN2
+PIN0
+#ISCELL
+basic opin symbol
+PIN4
+#ISCELL
+basic iopin symbolr
+PIN5
+#ISCELL
+NCSU_Analog_Parts gnd symbol
+I0

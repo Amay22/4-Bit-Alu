@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ady231
+HostName                       gauss.poly.edu
+ProcessIdentifier              29588
+ProcessCreationTime_UTC        1418422522
+ProcessCreationTime_Readable   Fri Dec 12 17:15:22 2014 EST
+AppIdentifier                  /opt/cadence/IC5141/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /home/FALL2014/ady231/cadence/testinglayout/Nor_gate/symbol/symbol.cdb
+TimeEditLocked                 Fri Dec 12 17:25:20 2014 EST

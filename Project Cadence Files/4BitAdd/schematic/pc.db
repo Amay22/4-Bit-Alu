@@ -1,0 +1,33 @@
+#
+testinglayout XOR symbol
+I45
+I44
+I43
+I42
+#
+testinglayout Full_adderc symbol
+I41
+I40
+I39
+I38
+#ISCELL
+basic iopin symbolr
+PIN0
+#ISCELL
+basic ipin symbol
+PIN14
+PIN13
+PIN8
+PIN7
+PIN6
+PIN5
+PIN1
+PIN2
+PIN4
+#ISCELL
+basic opin symbol
+PIN12
+PIN11
+PIN3
+PIN9
+PIN10

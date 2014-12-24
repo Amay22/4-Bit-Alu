@@ -1,0 +1,52 @@
+#
+testinglayout Nor_gate symbol
+I54
+#
+testinglayout fullDemux symbol
+I51
+#
+testinglayout inverter symbol
+I49
+#
+testinglayout 4BitAdd symbol
+I48
+#
+testinglayout FlipFlop symbol
+I47
+I52
+I35
+I34
+I36
+I37
+I38
+I42
+I41
+I39
+I40
+I44
+I43
+I45
+I46
+#ISCELL
+basic ipin symbol
+PIN13
+PIN12
+PIN9
+PIN8
+PIN7
+PIN6
+PIN5
+PIN4
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic iopin symbolr
+PIN3
+#ISCELL
+basic opin symbol
+PIN16
+PIN15
+PIN14
+PIN11
+PIN10

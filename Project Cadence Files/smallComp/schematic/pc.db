@@ -1,0 +1,37 @@
+#
+testinglayout Nand symbol
+I36
+I35
+I34
+I33
+#
+testinglayout XOR symbol
+I32
+I31
+I30
+I29
+#
+testinglayout inverter symbol
+I28
+I27
+I26
+I25
+I24
+I23
+#ISCELL
+basic iopin symbolr
+PIN0
+#ISCELL
+basic ipin symbol
+PIN20
+PIN21
+PIN12
+PIN18
+PIN19
+#ISCELL
+basic opin symbol
+PIN16
+PIN15
+PIN14
+PIN13
+PIN17
